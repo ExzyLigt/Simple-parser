@@ -2,6 +2,7 @@
 /.vscode
 sync_parser2.py
 compare_data.py
+.python-version
 *.json
 !n.json
 !data.json
