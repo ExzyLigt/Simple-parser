@@ -1,0 +1,10 @@
+/tests
+/.vscode
+sync_parser2.py
+compare_data.py
+*.json
+!n.json
+!data.json
+*.txt
+*.csv
+*.xlsx
