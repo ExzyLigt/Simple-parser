@@ -7,7 +7,7 @@
 1. Необходимо клонировать проект на локальную машину:
 
 ```bash
-git clone 
+git clone https://github.com/ExzyLigt/Simple-parser.git
 ```
 
 2. В проекте используется *pyproject.toml*, чтобы установить зависимости из этого файла необходимо воспользоваться пакетным менеджером [***poetry***](https://pypi.org/project/poetry/). Если *poetry* не установлен необходимо выполнить команду:
